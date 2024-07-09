@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BadassLK
+- 👋 Hi, I’m Hansana Kavinda
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning PYTHON, HTML
 - 💞️ I’m looking to collaborate on NOTHING
