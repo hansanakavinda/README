@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hansana Kavinda
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning PYTHON, HTML
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me DON'T
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on exiciting projects
+- 📫 How to reach me 
 
 <!---
 BadassLK/BadassLK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
